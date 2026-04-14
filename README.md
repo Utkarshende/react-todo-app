@@ -44,7 +44,7 @@ src/
 ### 1. Clone the repository
 
 ```
-git clone <your-repo-url>
+git clone <https://github.com/Utkarshende/react-todo-app.git>
 cd react-todo
 ```
 
